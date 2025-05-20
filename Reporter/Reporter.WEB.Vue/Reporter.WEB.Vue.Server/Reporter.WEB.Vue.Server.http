@@ -1,6 +1,0 @@
-@Reporter.WEB.Vue.Server_HostAddress = http://localhost:5277
-
-GET {{Reporter.WEB.Vue.Server_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
